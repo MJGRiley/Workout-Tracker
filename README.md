@@ -1,7 +1,7 @@
 # Workout-Tracker
 
 ## Description
-This 
+This tracker lets you log your workouts, gives you a sum of the time
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -16,7 +16,7 @@ This
 
 ## Links
 
-* [GitHub repo](https://github.com/MJGRiley/Read-Me_Gen)
+* [GitHub repo](https://github.com/MJGRiley/Workout-Tracker)
 
 ## License
   Copyright <2021> Morgan Riley

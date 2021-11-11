@@ -15,9 +15,7 @@ router.get("/api/workouts/range", (req, res) => {
   Workout.aggregate([
     {
         $addFields: {
-          totalDuration: {
-              $sum: "$exercises.duration"
-          }
+          totalDuration: { $sum: "$exercises.duration" }
         }
     }
     ])

@@ -6,13 +6,14 @@ This tracker lets you log your workouts, gives you a sum of the time
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Features
-
+allows you to track your workouts
 
 ## Usage Information
-
+click to add a new exercise then click complete
+You can see your progress from the last week on the dashboard
 
 ## Future Development
-
+none, it's perfect
 
 ## Links
 
